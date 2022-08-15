@@ -50,7 +50,7 @@ nav ul li a {
 	cursor: pointer;
 	transition: .5s;
 	text-decoration: none;
-}
+} 
 nav ul li a:hover {
 	color: #fff;
 	border-radius: 5px;
